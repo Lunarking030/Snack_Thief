@@ -44,9 +44,5 @@ Expect sneak peeks, dev logs, and maybe a few raccoon-related accidents soon.
 
 *(Coming soon!)*
 
----
 
-## 📬 Contact
-
-Have suggestions, bug reports, or raccoon memes? Drop them in the issues or reach out!
 
